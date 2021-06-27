@@ -13,5 +13,6 @@
 	},
 	"author": "guanhong",
 	"description": "My first NPM project",
-	"keywords": [ "freecodecamp", "related", "words" ]
+	"keywords": [ "freecodecamp", "related", "words" ],
+	"license": "MIT"
 }
