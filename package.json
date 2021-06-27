@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "guanhong"
+	"author": "guanhong",
+	"description": "My first NPM project"
 }
